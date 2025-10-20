@@ -1,0 +1,2 @@
+1.1.0
+https://github.com/yourusername/saawebpro-browser/releases/download/v1.1.0/SaaWebPro-Browser-Setup-1.1.0.exe
