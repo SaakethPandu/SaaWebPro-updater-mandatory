@@ -1,2 +1,2 @@
 1.0.1
-https://drive.usercontent.google.com/download?id=1urJ-IWMWi_gYutzokATwiR42SLd0xsWW&export=download&authuser=5&confirm=t&uuid=6152412e-f435-47e7-8274-f0bb264a0cb1&at=AKSUxGOBPozdbW_IOUN-qhHFG7NR:1761033149480
+https://github.com/SaakethPandu/SaaWebPro-updater-mandatory/releases/download/1.0.1/SaaWebPro.Browser.Setup.1.0.1.exe
